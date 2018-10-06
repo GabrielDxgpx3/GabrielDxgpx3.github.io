@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+}
+
+#img{
+	position: relative;
+	left: 14%;
+	width: 70%;
+	height: 50%;
+	margin: 0px;
+}
+
+#credito{
+	width: 100%;
+	color: white;
+	font-size: 1.1em;
+	font-family: monospace;
+	text-align: center;
+
+}
